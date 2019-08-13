@@ -6,4 +6,3 @@ It includes push notification, which isn't required in a PWA, but it's cool.
 
 Check out the hosted version here: [https://hello-world-pwa-8669c.firebaseapp.com/](https://hello-world-pwa-8669c.firebaseapp.com/)
 
-Gentry's hosted version here: https://glindy-pwa-hello-world.firebaseapp.com
